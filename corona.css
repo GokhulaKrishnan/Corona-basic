@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.main-container{
+    font-family: "Roboto";
+    padding: 15px;
+    border-style: solid;
+    border-color: #0967d219;
+}
+.first-container{
+    font-size: 10px;
+    padding-bottom: 12px;
+}
+.para{
+    font-weight: 500;
+}
+.heading{
+    font-size: 25px;
+}
+.second-container{
+    padding: 30px;
+    background-color: #0967d219;
+    border-radius: 13px;
+    margin-top: 5px;
+    margin-bottom: 9px;
+}
+.f-contain-left{
+    padding: 8px;
+}
+.fimg{
+    height: 100px;
+}
+.s-contain-right{
+    padding-left: 20px;
+}
+.color2{
+    background-color: #e12d3919;
+}
+.third-container{
+    color: white;
+}
+.c-1{
+    background-color: #3ebd93;
+    margin:20px;
+    padding: 15px;
+    border-radius: 13px;
+}
+.c-2{
+    background-color: #e668a7;
+    margin:20px;
+    padding: 15px;
+    border-radius: 13px;
+}
+.c-3{
+    background-color: #a368fc;
+    margin:20px;
+    padding: 15px;
+    border-radius: 13px;
+}
